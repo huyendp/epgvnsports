@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="trada.info" generator-info-url="http://trada.info">
-  <channel id="kcine">
+<tv date="31-10-2021" source-info-name="googol" generator-info-name="Update 00:33:38 - 31/10/2021" source-info-url="https://www.facebook.com/googoldp">
+<channel id="kcine">
     <display-name lang="vi">K+CINE</display-name>
     <icon src="http://trada.info/tv/logos/kcine.jpg" />
     <url>http://www.vt.trada.info</url>
