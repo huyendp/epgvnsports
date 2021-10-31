@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="trada.info" generator-info-url="http://trada.info">
+  <channel id="kcine">
+    <display-name lang="vi">K+CINE</display-name>
+    <icon src="http://trada.info/tv/logos/kcine.jpg" />
+    <url>http://www.vt.trada.info</url>
+  </channel>
+  <channel id="klife">
+    <display-name lang="vi">K+LIFE</display-name>
+    <icon src="http://trada.info/tv/logos/klife.jpg" />
+    <url>http://www.vt.trada.info</url>
+  </channel>
+  <channel id="ksport1">
+    <display-name lang="vi">K+SPORT1</display-name>
+    <icon src="http://trada.info/tv/logos/ksport1.jpg" />
+    <url>http://www.vt.trada.info</url>
+  </channel>
+  <channel id="ksport2">
+    <display-name lang="vi">K+SPORT2</display-name>
+    <icon src="http://trada.info/tv/logos/ksport2.jpg" />
+    <url>http://www.vt.trada.info</url>
+  </channel>
+  </tv>
